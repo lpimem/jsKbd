@@ -1,4 +1,4 @@
-# jsKbd
+# jskbd
 JavaScript Keyboard Helper 
 
 ## Usage
