@@ -204,4 +204,3 @@ module.exports = shortcuts;
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=bundle.js.map
