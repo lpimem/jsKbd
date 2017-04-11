@@ -1,6 +1,8 @@
 # jskbd
 JavaScript Keyboard Helper 
 
+[![npm version](https://badge.fury.io/js/jskbd.svg)](https://badge.fury.io/js/jskbd)
+
 ## Usage
 
 ```TypeScript
